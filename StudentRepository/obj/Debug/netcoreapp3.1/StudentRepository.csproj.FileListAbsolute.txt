@@ -1,0 +1,12 @@
+C:\Users\vinove\source\repos\StudentRepository\bin\Debug\netcoreapp3.1\StudentDTO.dll
+C:\Users\vinove\source\repos\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.csprojAssemblyReference.cache
+C:\Users\vinove\source\repos\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.AssemblyInfoInputs.cache
+C:\Users\vinove\source\repos\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.AssemblyInfo.cs
+C:\Users\vinove\source\repos\StudentRepository\bin\Debug\netcoreapp3.1\StudentRepository.deps.json
+C:\Users\vinove\source\repos\StudentRepository\bin\Debug\netcoreapp3.1\StudentRepository.dll
+C:\Users\vinove\source\repos\StudentRepository\bin\Debug\netcoreapp3.1\StudentRepository.pdb
+C:\Users\vinove\source\repos\StudentRepository\bin\Debug\netcoreapp3.1\StudentDTO.pdb
+C:\Users\vinove\source\repos\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.csproj.CoreCompileInputs.cache
+C:\Users\vinove\source\repos\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.csproj.CopyComplete
+C:\Users\vinove\source\repos\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.dll
+C:\Users\vinove\source\repos\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.pdb

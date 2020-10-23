@@ -1,0 +1,9 @@
+C:\Users\vinove\source\repos\StudentDTO\bin\Debug\netcoreapp3.1\StudentDTO.deps.json
+C:\Users\vinove\source\repos\StudentDTO\bin\Debug\netcoreapp3.1\StudentDTO.dll
+C:\Users\vinove\source\repos\StudentDTO\bin\Debug\netcoreapp3.1\StudentDTO.pdb
+C:\Users\vinove\source\repos\StudentDTO\obj\Debug\netcoreapp3.1\StudentDTO.csprojAssemblyReference.cache
+C:\Users\vinove\source\repos\StudentDTO\obj\Debug\netcoreapp3.1\StudentDTO.AssemblyInfoInputs.cache
+C:\Users\vinove\source\repos\StudentDTO\obj\Debug\netcoreapp3.1\StudentDTO.AssemblyInfo.cs
+C:\Users\vinove\source\repos\StudentDTO\obj\Debug\netcoreapp3.1\StudentDTO.csproj.CoreCompileInputs.cache
+C:\Users\vinove\source\repos\StudentDTO\obj\Debug\netcoreapp3.1\StudentDTO.dll
+C:\Users\vinove\source\repos\StudentDTO\obj\Debug\netcoreapp3.1\StudentDTO.pdb

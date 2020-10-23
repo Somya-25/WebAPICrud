@@ -1,0 +1,9 @@
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.AssemblyInfoInputs.cache
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.AssemblyInfo.cs
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.csproj.CoreCompileInputs.cache
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.csprojAssemblyReference.cache
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\bin\Debug\netcoreapp3.1\StudentEntity.deps.json
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\bin\Debug\netcoreapp3.1\StudentEntity.dll
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\bin\Debug\netcoreapp3.1\StudentEntity.pdb
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.dll
+C:\Users\vinove\Downloads\CORE (2)\CORE\CORE\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.pdb
